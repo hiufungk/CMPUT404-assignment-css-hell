@@ -23,8 +23,10 @@ Code is licensed under the Apache 2.0 license.
 
 Part1:
 commented out the existing css in 1.html, 2.html, 3.html
+
 added my own css stylesheet in to the 3 html files
 
 Part2:
 top navigation bar created base on https://www.w3schools.com/howto/howto_js_topnav.asp
+
 side bar created base on https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
