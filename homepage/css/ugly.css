@@ -1,0 +1,86 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+  
+/* css for top nav */
+.topnav {
+    overflow: hidden;
+    background-color: blue;
+}
+
+.topnav a {
+    float: left;
+    color: #f5f5f5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: hotpink;
+    color: yellow;
+}
+
+/* css for side bar */
+.side-bar {
+    width: 25%;
+    display: inline-block;
+    margin-right: 3%;
+    margin-top: 5%; 
+    padding-right: 15%;
+}
+
+.side-bar .sideContent{
+    background-color: orange;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.sideHeader {
+    font-size: 50px;
+    color: red;
+}
+
+/* css for main content */
+.main {
+    width: 75%;
+    margin-left: 5%;
+    margin-right: 3%;
+    display: inline-block;
+}
+
+.profilePic {
+    max-width: 50px;
+    border-radius: 50%;
+}
+
+.horizontalAlign {
+    display: flex;
+}
+
+.profileContent {
+    text-align: right;
+    border-style: outset;
+    color: hotpink;
+}
+
+.companyContent {
+    font-style: italic;
+    border-style: dashed;
+    border-color: aqua;
+    font-family: cursive;
+}
+.companyInfo2 {
+    text-align: center;
+}
+
+.heading {
+    font-size: 80%;
+    font-weight: 10;
+    text-align: right;
+}
+
+.banner {
+    background-image: linear-gradient(red, yellow);
+}

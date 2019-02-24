@@ -1,0 +1,39 @@
+body {
+    font-family: Sans-serif;
+    background: #E0D3AF;
+}
+
+p {
+    color: #1F2C50;
+    text-align: justify;
+    text-indent: 3%;
+    margin-left: 5%;
+    margin-right: 7%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1F2C50;
+    background: transparent;
+    text-align: center;
+}
+
+img {
+    border: 1px solid #000000;
+    border-radius: 10px;
+    max-width:400px;
+    max-height:400px;
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+img:hover {
+    transform: scale(2);
+}
+
+.caption {
+    color: grey;
+    font-style: italic;
+    text-align: center;
+}
+
