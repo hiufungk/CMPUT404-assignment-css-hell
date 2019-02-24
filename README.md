@@ -30,3 +30,9 @@ Part2:
 top navigation bar created base on https://www.w3schools.com/howto/howto_js_topnav.asp
 
 side bar created base on https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+
+Ingenuity Lab logo: https://twitter.com/ingenuitylab
+
+Hostlink logo: www.hostlink.com.hk
+
+VBAHK logo: https://twitter.com/vbahk_wgp
